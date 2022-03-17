@@ -46,10 +46,6 @@ body {
     line-height: 0.3;
 }
 
-.null {
-    user-select: none;
-}
-
 .blush {
     color: pink;
     text-shadow: 0 0 40px pink;

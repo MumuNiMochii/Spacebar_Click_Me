@@ -1,7 +1,7 @@
 let spacebar = document.getElementById("spacebar")
 
 function overIt(does) {
-    if(does == true) {
+    if(does === true) {
         spacebar.style.width = "840px"
         spacebar.style.height = "320px"
         spacebar.transition = "width 0.75s ease-in-out, height 0.75s ease-in-out"
